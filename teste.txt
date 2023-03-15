@@ -1,0 +1,4 @@
+1- criamos um repositório
+2- criamos uma pasta 
+3- git init
+4- git remote add
